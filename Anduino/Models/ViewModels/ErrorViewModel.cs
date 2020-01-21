@@ -1,6 +1,6 @@
 using System;
 
-namespace Anduino.Models
+namespace Anduino.Models.ViewModels
 {
     public class ErrorViewModel
     {
